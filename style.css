@@ -62,3 +62,9 @@ align-items: center;
   background-color: bisque;
 }
 
+.personal__logo {
+  font-size: 24px;
+  color: #6030b1;
+  margin: 0 12px;
+  font: bold;
+}
