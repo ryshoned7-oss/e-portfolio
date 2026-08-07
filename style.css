@@ -33,9 +33,9 @@ position: relative;
 transition: opacity 300ms ease;
 }
 
-a:hover [
+a:hover {
   opacity: 0.7;
-]
+}
 
 .link__hover-effect {
   text-decoration: none;
